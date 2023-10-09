@@ -13,6 +13,17 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springtx" />
+        <option name="gradleJvm" value="semeru-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/springtx" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
